@@ -11,6 +11,10 @@ public class Evenodd {
             System.out.println("The given number " + num + " is Even.");
         } else {
             System.out.println("The given number " + num + " is Odd.");
+        }else{
+            System.out.println("The given number does no exist.");
+        }
+
         }
         
 
