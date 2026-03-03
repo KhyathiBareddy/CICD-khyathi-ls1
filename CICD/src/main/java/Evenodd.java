@@ -13,6 +13,8 @@ public class Evenodd {
             System.out.println("The given number " + num + " is Odd.");
         }else{
             System.out.println("The given number does no exist.");
+        }else{
+            system.out.println("success");
         }
 
         }
